@@ -14,7 +14,6 @@
 * ex02_CSPGame_TranLeMinhTam_3124720064.pdf: Bài tập bài toán thỏa mãn ràng buộc (CSP) và Game AI.
 * ex03_AIGame_TranLeMinhTam_3124720064.pdf: Báo cáo & bài tập Game AI đối kháng.
 * BT04_KnowledgeReasoning_TranLeMinhTam_3124720064.pdf: Bài tập tính toán Biểu diễn tri thức và suy luận (Logic mệnh đề, logic vị từ, ontology, suy luận tiến/lùi, RAG).
-* BT04_Bieu_dien_tri_thuc_va_suy_luan_DA_GIAI.docx: Bản thảo lời giải chi tiết định dạng Word.
 
 ### 2. Phần Thực hành (Labs)
 * lab01_agent_TranLeMinhTam_3124720064.zip: Thực hành xây dựng tác tử thông minh (Intelligent Agents).
