@@ -20,3 +20,4 @@
 * lab02_search_TranLeMinhTam_3124720064.zip: Thực hành các thuật toán tìm kiếm mù và có thông tin (BFS, DFS, UCS, A*).
 * lab03_localsearch_search_TranLeMinhTam_3124720064.zip: Thực hành tìm kiếm cục bộ (Local Search, Hill Climbing, Simulated Annealing).
 * lab04_csp_TranLeMinhTam_3124720064.zip: Thực hành giải quyết bài toán thỏa mãn ràng buộc (CSP - Backtracking, Forward Checking, AC-3).
+* lab05_game_TranLeMinhTam_3124720064.zip: Thực hành tìm kiếm đối kháng và trò chơi (Adversarial Search & Game AI - Minimax, Alpha-Beta, Connect Four, Dots and Boxes, TicTacToe).
